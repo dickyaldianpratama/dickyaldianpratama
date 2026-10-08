@@ -2,17 +2,18 @@
 
 <p align="center">
   <b>Software Engineer • Full-Stack Developer • Cloud & DevOps Practitioner</b><br>
-  <sub>Backed by Scalable Backend Architecture, Cross-Platform Mobile, and Edge IoT Systems</sub>
+  <sub>Backed by Scalable Backend Architecture, Cloud Serverless (AWS Lambda), and Edge IoT Systems</sub>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=860&lines=Building+resilient%2C+scalable%2C+and+production-grade+software+systems.;Backend+(Laravel%2C+Django%2C+.NET)+%E2%86%92+DevOps+(Docker%2C+CI%2FCD)+%E2%86%92+Cloud.;HackerRank+Certified+Software+Engineer+%26+Full-Stack+Architect.;Bridging+Clean+Code+Architecture+with+Practical+Edge+IoT+Solutions."/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=860&lines=Building+resilient%2C+scalable%2C+and+production-grade+software+systems.;Backend+(Laravel%2C+Django%2C+.NET)+%E2%86%92+Cloud+%26+DevOps+(AWS+Lambda%2C+Docker%2C+CI%2FCD).;HackerRank+Certified+Software+Engineer+%26+Full-Stack+Architect.;Bridging+Clean+Code+Architecture+with+Practical+Edge+IoT+Solutions."/>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dickyaldianpratama&label=Profile%20Views&color=2563EB&style=flat-square">
   <img src="https://img.shields.io/github/followers/dickyaldianpratama?style=flat-square&color=2563EB">
   <img src="https://img.shields.io/badge/HackerRank-Role%20Certified%20SE-00EA64?style=flat-square&logo=hackerrank&logoColor=black">
+  <img src="https://img.shields.io/badge/AWS-Lambda%20Certified-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white">
   <img src="https://img.shields.io/badge/Location-Indonesia-2563EB?style=flat-square">
 </p>
 
@@ -27,12 +28,12 @@
 
 ## About
 
-I design and engineer production-grade software across the full development lifecycle — from database schema design and domain modeling to RESTful APIs, cross-platform mobile experiences, and automated continuous delivery. My core engineering focus centers on **full-stack web architecture**, **cloud-native containerization**, and **operational automation**.
+I design and engineer production-grade software across the full development lifecycle — from database schema design and domain modeling to RESTful APIs, cross-platform mobile experiences, serverless cloud functions, and automated continuous delivery. My core engineering focus centers on **full-stack web architecture**, **cloud-native containerization**, and **operational automation**.
 
-That foundation is reinforced by hands-on experience in **embedded IoT firmware, network security analysis, and public-sector digital transformation** — because great software is not merely functional; it must be scalable, maintainable, secure, and delivered with disciplined rigor.
+That foundation is reinforced by hands-on experience in **AWS Lambda serverless architectures, embedded IoT firmware, network security analysis, and public-sector digital transformation** — because great software is not merely functional; it must be scalable, maintainable, secure, and delivered with disciplined rigor.
 
 ```
-REQUIREMENTS → CLEAN ARCHITECTURE → API DESIGN → DATABASE ENGINE → DOCKER → CI/CD → DEPLOYED PRODUCT
+REQUIREMENTS → CLEAN ARCHITECTURE → API DESIGN → DATABASE ENGINE → DOCKER / AWS → CI/CD → DEPLOYED PRODUCT
 ```
 
 I am a final-year Informatics Engineering student at **Universitas Muhammadiyah Riau (UMRI)**, focused on distributed enterprise systems, cloud automation, and modern software engineering practices.
@@ -43,10 +44,10 @@ I am a final-year Informatics Engineering student at **Universitas Muhammadiyah 
 
 ```text
 Backend       → Laravel (Sanctum / Queue / REST), Django & FastAPI, .NET Core Web API, Node.js
+Cloud & Server→ AWS Lambda (Serverless Compute), Nginx reverse proxy, Linux server administration
 Frontend      → Modern Responsive UI, React.js, Tailwind CSS, Component Architecture
 Mobile        → Flutter & Dart, GetX reactive state management, offline-first & cloud sync
 DevOps & CI   → Docker containerization, Docker Compose multi-service, GitHub Actions workflows
-Cloud & Sys   → Nginx reverse proxy, Linux server administration, PostgreSQL & MySQL tuning
 IoT & Edge    → ESP32/NodeMCU, embedded C/C++, MQTT telemetry protocols, sensor pipelines
 Security      → Network traffic inspection (Wireshark/Nmap), TLS/HTTPS, vulnerability auditing
 ```
@@ -76,16 +77,17 @@ Security      → Network traffic inspection (Wireshark/Nmap), TLS/HTTPS, vulner
 - JavaScript / TypeScript: Node.js, Express.js, middleware pipelines, JSON Web Tokens
 - API Standards: REST, JSON specification, API authentication, webhook & polling architectures
 
-**Database & Data Persistence**
-- Relational Databases: MySQL, MariaDB, PostgreSQL, SQLite
-- Database Design: Relational schema design, 3NF normalization, foreign key integrity
-- Optimization: Indexing strategies, query execution profiling, transaction safety
-
-**DevOps & Cloud Infrastructure**
+**Cloud, Serverless & Infrastructure**
+- Cloud Computing: AWS Lambda (Serverless execution & event-driven compute), Cloud Shell
 - Containerization: Docker, Docker Compose multi-container staging, volume management
 - CI/CD Pipelines: GitHub Actions automated linting, test suites, and remote deployment
 - Web Servers: Nginx reverse proxy configuration, load balancing, SSL/TLS termination
 - Operating Systems: Linux (Ubuntu/Debian), Bash scripting, SSH key management, process supervision
+
+**Database & Data Persistence**
+- Relational Databases: MySQL, MariaDB, PostgreSQL, SQLite
+- Database Design: Relational schema design, 3NF normalization, foreign key integrity
+- Optimization: Indexing strategies, query execution profiling, transaction safety
 
 </td>
 <td valign="top" width="50%">
@@ -93,7 +95,7 @@ Security      → Network traffic inspection (Wireshark/Nmap), TLS/HTTPS, vulner
 **Mobile & Frontend Engineering**
 - Mobile Multiplatform: Flutter & Dart (Android / iOS single codebase)
 - State Architecture: GetX reactive state management, dependency injection, routing
-- Mobile Integrasi: REST API consumption, local caching, WebView, Google Drive API
+- Mobile Integrations: REST API consumption, local caching, WebView, Google Drive API
 - Frontend Web: React.js, HTML5, CSS3, modern Vanilla JavaScript (ES6+)
 
 **IoT, Hardware & Embedded Systems**
@@ -121,8 +123,8 @@ CORE
 PHP (Laravel) · Dart (Flutter) · JavaScript · MySQL · Docker · Git / GitHub
 
 APPLIED
-Django · FastAPI · .NET Core Web API · Node.js · GitHub Actions CI/CD · Nginx · Linux CLI
-GetX State Management · RESTful API Design · MQTT Protocol · ESP32 Embedded Systems
+AWS Lambda · Django · FastAPI · .NET Core Web API · Node.js · GitHub Actions CI/CD · Nginx
+Linux CLI · GetX State Management · RESTful API Design · MQTT Protocol · ESP32 Embedded Systems
 Network Inspection (Wireshark / Nmap) · Clean Architecture · Agile / Scrum Workflows
 
 DEVELOPING
@@ -132,6 +134,12 @@ Kubernetes (k8s orchestration) · React.js · Cloud-Native Microservices · Adva
 <br>
 
 ## Tech Stack
+
+**Cloud & Serverless**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,nginx,linux,bash"/>
+
+`AWS Lambda` `Docker` `Docker Compose` `GitHub Actions` `Nginx` `Linux Ubuntu` `Bash CLI`
 
 **Backend & Frameworks**
 
@@ -144,12 +152,6 @@ Kubernetes (k8s orchestration) · React.js · Cloud-Native Microservices · Adva
 <img src="https://skillicons.dev/icons?i=dart,flutter,js,ts,react,html,css,tailwind"/>
 
 `Flutter` `Dart` `GetX` `React.js` `JavaScript (ES6+)` `TypeScript` `HTML5` `CSS3` `Tailwind CSS`
-
-**DevOps, Cloud & System**
-
-<img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,linux,bash,git,github"/>
-
-`Docker` `Docker Compose` `GitHub Actions` `Nginx` `Linux Ubuntu` `Bash CLI` `Git` `Kubernetes (basics)`
 
 **IoT, Embedded & Hardware**
 
@@ -192,46 +194,56 @@ Kubernetes (k8s orchestration) · React.js · Cloud-Native Microservices · Adva
 <p align="center">
   <table>
     <tr>
-      <td align="center" width="20%">
-        <img src="assets/certificates/hackerrank-software-engineer.png" width="150"/><br/>
+      <td align="center" width="25%">
+        <img src="assets/certificates/aws-lambda-foundation.png" width="160"/><br/>
+        <sub><b>AWS Lambda Foundation</b><br/>AWS & Simplilearn (Code: <code>10857417</code>)</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="assets/certificates/hackerrank-software-engineer.png" width="160"/><br/>
         <sub><b>Software Engineer</b><br/>HackerRank (ID: <code>778D0E16F845</code>)</sub>
       </td>
-      <td align="center" width="20%">
-        <img src="assets/certificates/hackerrank-js-intermediate.png" width="150"/><br/>
+      <td align="center" width="25%">
+        <img src="assets/certificates/hackerrank-problem-solving.png" width="160"/><br/>
+        <sub><b>Problem Solving (Basic)</b><br/>HackerRank (ID: <code>2E94357E61E4</code>)</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="assets/certificates/hackerrank-js-intermediate.png" width="160"/><br/>
         <sub><b>JavaScript (Intermediate)</b><br/>HackerRank (ID: <code>4200B8ACC6E7</code>)</sub>
-      </td>
-      <td align="center" width="20%">
-        <img src="assets/certificates/hackerrank-js-basic.png" width="150"/><br/>
-        <sub><b>JavaScript (Basic)</b><br/>HackerRank (ID: <code>7C2E9731357F</code>)</sub>
-      </td>
-      <td align="center" width="20%">
-        <img src="assets/certificates/simplilearn-project-management.png" width="150"/><br/>
-        <sub><b>Project Management 101</b><br/>Simplilearn (ID: <code>10854822</code>)</sub>
-      </td>
-      <td align="center" width="20%">
-        <img src="assets/certificates/juara-2-bp2c-protokarya.png" width="150"/><br/>
-        <sub><b>Juara 2 — BP2C (ProtoKarya)</b><br/>LLDIKTI Wilayah XVII & UMRI</sub>
       </td>
     </tr>
     <tr>
-      <td align="center" width="20%">
-        <img src="assets/certificates/website-desa-tanjung-harapan.png" width="150"/><br/>
+      <td align="center" width="25%">
+        <img src="assets/certificates/hackerrank-js-basic.png" width="160"/><br/>
+        <sub><b>JavaScript (Basic)</b><br/>HackerRank (ID: <code>7C2E9731357F</code>)</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="assets/certificates/simplilearn-project-management.png" width="160"/><br/>
+        <sub><b>Project Management 101</b><br/>Simplilearn (Code: <code>10854822</code>)</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="assets/certificates/juara-2-bp2c-protokarya.png" width="160"/><br/>
+        <sub><b>Juara 2 — BP2C (ProtoKarya)</b><br/>LLDIKTI Wilayah XVII & UMRI</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="assets/certificates/website-desa-tanjung-harapan.png" width="160"/><br/>
         <sub><b>Website Desa Tanjung Harapan</b><br/>Pemerintah Desa Tanjung Harapan</sub>
       </td>
-      <td align="center" width="20%">
-        <img src="assets/certificates/google-ai-ready-asean.png" width="150"/><br/>
+    </tr>
+    <tr>
+      <td align="center" width="25%">
+        <img src="assets/certificates/google-ai-ready-asean.png" width="160"/><br/>
         <sub><b>AI Ready ASEAN (14 Modules)</b><br/>ASEAN Foundation & Google.org</sub>
       </td>
-      <td align="center" width="20%">
-        <img src="assets/certificates/katif-vi-umri.png" width="150"/><br/>
+      <td align="center" width="25%">
+        <img src="assets/certificates/katif-vi-umri.png" width="160"/><br/>
         <sub><b>Kemah Akrab Informatika (KATIF VI)</b><br/>HMTIF UMRI</sub>
       </td>
-      <td align="center" width="20%">
-        <img src="assets/certificates/seminar-sains-data.jpg" width="150"/><br/>
+      <td align="center" width="25%">
+        <img src="assets/certificates/seminar-sains-data.jpg" width="160"/><br/>
         <sub><b>Data Science Seminar</b><br/>Informatics Academic Forum</sub>
       </td>
-      <td align="center" width="20%">
-        <img src="assets/certificates/pks-man-asahan.jpg" width="150"/><br/>
+      <td align="center" width="25%">
+        <img src="assets/certificates/pks-man-asahan.jpg" width="160"/><br/>
         <sub><b>Leadership & Organization</b><br/>PKS MAN Asahan</sub>
       </td>
     </tr>
@@ -260,6 +272,7 @@ Kubernetes (k8s orchestration) · React.js · Cloud-Native Microservices · Adva
 ## Engineering Goals
 
 - Architect and deploy scalable backend microservices that handle high concurrency with predictable latency
+- Leverage cloud serverless functions (AWS Lambda) to optimize infrastructure cost and event-driven automation
 - Deepen production container orchestration practices with Kubernetes (k8s) and automated canary releases
 - Expand edge computing telemetry integrations connecting distributed IoT sensors with cloud analytics backends
 - Strengthen static application security testing (SAST) and automated vulnerability auditing inside CI/CD workflows
