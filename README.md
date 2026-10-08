@@ -1,28 +1,35 @@
-<h1 align="center">Dicky Aldian Pratama</h1>
+<div align="center">
 
-<p align="center">
-  <b>Software Engineer • Full-Stack Developer • Cloud & DevOps Practitioner</b><br>
-  <sub>Backed by Scalable Backend Architecture, Cloud Serverless (AWS Lambda), and Edge IoT Systems</sub>
-</p>
+  <!-- CYBER-TECH ANIMATED HEADER BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,9,20&height=240&section=header&text=DICKY%20ALDIAN%20PRATAMA&fontSize=38&fontColor=ffffff&fontAlignY=36&desc=%E2%9A%A1%20SOFTWARE%20ENGINEER%20%E2%80%A2%20FULL-STACK%20ARCHITECT%20%E2%80%A2%20CLOUD%20%26%20DEVOPS&descSize=15&descAlignY=60&descColor=00F0FF&animation=twinkling" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=860&lines=Building+resilient%2C+scalable%2C+and+production-grade+software+systems.;Backend+(Laravel%2C+Django%2C+.NET)+%E2%86%92+Cloud+%26+DevOps+(AWS+Lambda%2C+Docker%2C+CI%2FCD).;HackerRank+Certified+Software+Engineer+%26+Full-Stack+Architect.;Bridging+Clean+Code+Architecture+with+Practical+Edge+IoT+Solutions."/>
-</p>
+  <!-- DYNAMIC NEON TYPING SVG -->
+  <a href="https://github.com/dickyaldianpratama">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=860&lines=Building+resilient%2C+scalable%2C+and+production-grade+software+systems.;Backend+(Laravel%2C+Django%2C+.NET)+%E2%86%92+Cloud+%26+DevOps+(AWS+Lambda%2C+Docker%2C+CI%2FCD).;HackerRank+Certified+Software+Engineer+%26+Full-Stack+Architect.;Bridging+Clean+Code+Architecture+with+Practical+Edge+IoT+Solutions." alt="Typing SVG" />
+  </a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dickyaldianpratama&label=Profile%20Views&color=2563EB&style=flat-square">
-  <img src="https://img.shields.io/github/followers/dickyaldianpratama?style=flat-square&color=2563EB">
-  <img src="https://img.shields.io/badge/HackerRank-Role%20Certified%20SE-00EA64?style=flat-square&logo=hackerrank&logoColor=black">
-  <img src="https://img.shields.io/badge/AWS-Lambda%20Certified-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white">
-  <img src="https://img.shields.io/badge/Location-Indonesia-2563EB?style=flat-square">
-</p>
+  <br>
 
-<p align="center">
-  <a href="mailto:bgdicky123@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://wa.me/6283199116298"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"></a>
-  <a href="https://instagram.com/aldianpratama"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
-  <a href="https://github.com/dickyaldianpratama/web_portfolio"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=github&logoColor=white"></a>
-</p>
+  <!-- TECH METRIC BADGES -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=dickyaldianpratama&label=Profile%20Views&color=0070f3&style=for-the-badge&logo=eye&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-Role%20Certified%20SE-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+    <img src="https://img.shields.io/badge/AWS-Lambda%20Certified-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+    <img src="https://img.shields.io/badge/Location-Indonesia-00f0ff?style=for-the-badge&logo=googlemaps&logoColor=black" />
+  </p>
+
+  <!-- SOCIAL CONNECT BAR -->
+  <p align="center">
+    <a href="mailto:bgdicky123@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://wa.me/6283199116298"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+    <a href="https://instagram.com/aldianpratama"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://github.com/dickyaldianpratama/web_portfolio"><img src="https://img.shields.io/badge/Portfolio-0070f3?style=for-the-badge&logo=github&logoColor=white" /></a>
+  </p>
+
+  <!-- ANIMATED TROPHY ROW -->
+  <img src="https://github-profile-trophy.vercel.app/?username=dickyaldianpratama&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&row=1" />
+
+</div>
 
 <br>
 
@@ -263,8 +270,13 @@ Kubernetes (k8s orchestration) · React.js · Cloud-Native Microservices · Adva
   <img src="https://streak-stats.demolab.com?user=dickyaldianpratama&theme=tokyonight&hide_border=true"/>
 </p>
 
+<!-- CONTRIBUTION GRID ANIMATION (CRAWLER / SNAKE) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dickyaldianpratama&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dickyaldianpratama/dickyaldianpratama/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dickyaldianpratama/dickyaldianpratama/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/dickyaldianpratama/dickyaldianpratama/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Animation" />
+  </picture>
 </p>
 
 <br>
@@ -288,3 +300,10 @@ Kubernetes (k8s orchestration) · React.js · Cloud-Native Microservices · Adva
 <p align="center">
   <sub>Dicky Aldian Pratama · Informatics Engineering, Universitas Muhammadiyah Riau · Indonesia</sub>
 </p>
+
+<br>
+
+<!-- CYBER-TECH FOOTER WAVE -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,9,20&height=110&section=footer" width="100%" />
+</div>
