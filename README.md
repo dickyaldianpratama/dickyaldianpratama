@@ -3,27 +3,33 @@
   <!-- CYBER-TECH ANIMATED HEADER BANNER -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080C14,35:003366,75:0070F3,100:00F0FF&height=240&section=header&text=DICKY%20ALDIAN%20PRATAMA&fontSize=38&fontColor=ffffff&fontAlignY=36&desc=%E2%9A%A1%20SOFTWARE%20ENGINEER%20%E2%80%A2%20FULL-STACK%20ARCHITECT%20%E2%80%A2%20CLOUD%20%26amp%3B%20DEVOPS&descSize=15&descAlignY=60&descColor=00F0FF&animation=twinkling" width="100%" />
 
+  <!-- PROFESSIONAL ROLE & SUBTITLE -->
+  <p align="center">
+    <b>Software Engineer • Full-Stack Architect • Cloud &amp; DevOps</b><br>
+    <sub>Specializing in High-Performance Backends, AWS Lambda Serverless &amp; Distributed Systems</sub>
+  </p>
+
   <!-- DYNAMIC NEON TYPING SVG -->
   <a href="https://github.com/dickyaldianpratama">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=860&lines=Building+resilient%2C+scalable%2C+and+production-grade+software+systems.;Backend+(Laravel%2C+Django%2C+.NET)+%E2%86%92+Cloud+%26+DevOps+(AWS+Lambda%2C+Docker%2C+CI%2FCD).;HackerRank+Certified+Software+Engineer+%26+Full-Stack+Architect.;Bridging+Clean+Code+Architecture+with+Practical+Edge+IoT+Solutions." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=0070F3&center=true&vCenter=true&width=860&lines=Building+resilient%2C+scalable%2C+and+production-grade+software+systems.;Backend+(Laravel%2C+Django%2C+.NET)+%E2%86%92+Cloud+%26+DevOps+(AWS+Lambda%2C+Docker).;HackerRank+Certified+Software+Engineer+%26+Full-Stack+Architect.;Bridging+Clean+Code+Architecture+with+Practical+Edge+IoT+Solutions." alt="Typing SVG" />
   </a>
 
   <br>
 
   <!-- TECH METRIC BADGES -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=dickyaldianpratama&label=Profile%20Views&color=0070f3&style=for-the-badge&logo=eye&logoColor=white" />
-    <img src="https://img.shields.io/badge/HackerRank-Role%20Certified%20SE-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
-    <img src="https://img.shields.io/badge/AWS-Lambda%20Certified-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-    <img src="https://img.shields.io/badge/Location-Indonesia-00f0ff?style=for-the-badge&logo=googlemaps&logoColor=black" />
+    <img src="https://komarev.com/ghpvc/?username=dickyaldianpratama&label=Profile%20Views&color=0070F3&style=flat-square" />
+    <img src="https://img.shields.io/badge/HackerRank-Role%20Certified%20SE-00EA64?style=flat-square&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-Lambda%20Certified-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" />
+    <img src="https://img.shields.io/badge/Location-Indonesia-0070F3?style=flat-square&logo=googlemaps&logoColor=white" />
   </p>
 
   <!-- SOCIAL CONNECT BAR -->
   <p align="center">
-    <a href="mailto:bgdicky123@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://wa.me/6283199116298"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-    <a href="https://instagram.com/aldianpratama"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-    <a href="https://github.com/dickyaldianpratama/web_portfolio"><img src="https://img.shields.io/badge/Portfolio-0070f3?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="mailto:bgdicky123@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+    <a href="https://wa.me/6283199116298"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
+    <a href="https://instagram.com/aldianpratama"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+    <a href="https://github.com/dickyaldianpratama/web_portfolio"><img src="https://img.shields.io/badge/Portfolio-0070F3?style=flat-square&logo=safari&logoColor=white" /></a>
   </p>
 
 </div>
