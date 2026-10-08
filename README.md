@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- CYBER-TECH ANIMATED HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,9,20&height=240&section=header&text=DICKY%20ALDIAN%20PRATAMA&fontSize=38&fontColor=ffffff&fontAlignY=36&desc=%E2%9A%A1%20SOFTWARE%20ENGINEER%20%E2%80%A2%20FULL-STACK%20ARCHITECT%20%E2%80%A2%20CLOUD%20%26%20DEVOPS&descSize=15&descAlignY=60&descColor=00F0FF&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,9,20&height=240&section=header&text=DICKY%20ALDIAN%20PRATAMA&fontSize=38&fontColor=ffffff&fontAlignY=36&desc=%E2%9A%A1%20SOFTWARE%20ENGINEER%20%E2%80%A2%20FULL-STACK%20ARCHITECT%20%E2%80%A2%20CLOUD%20%26amp%3B%20DEVOPS&descSize=15&descAlignY=60&descColor=00F0FF&animation=twinkling" width="100%" />
 
   <!-- DYNAMIC NEON TYPING SVG -->
   <a href="https://github.com/dickyaldianpratama">
@@ -25,9 +25,6 @@
     <a href="https://instagram.com/aldianpratama"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
     <a href="https://github.com/dickyaldianpratama/web_portfolio"><img src="https://img.shields.io/badge/Portfolio-0070f3?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
-
-  <!-- ANIMATED TROPHY ROW -->
-  <img src="https://github-profile-trophy.vercel.app/?username=dickyaldianpratama&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&row=1" />
 
 </div>
 
