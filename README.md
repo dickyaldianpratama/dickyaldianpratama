@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- CYBER-TECH ANIMATED HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,9,20&height=240&section=header&text=DICKY%20ALDIAN%20PRATAMA&fontSize=38&fontColor=ffffff&fontAlignY=36&desc=%E2%9A%A1%20SOFTWARE%20ENGINEER%20%E2%80%A2%20FULL-STACK%20ARCHITECT%20%E2%80%A2%20CLOUD%20%26amp%3B%20DEVOPS&descSize=15&descAlignY=60&descColor=00F0FF&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:00F0FF,50:0052D4,100:0A0E17&height=230&section=header&text=DICKY%20ALDIAN%20PRATAMA&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=%E2%9A%A1%20SOFTWARE%20ENGINEER%20%E2%80%A2%20FULL-STACK%20ARCHITECT%20%E2%80%A2%20CLOUD%20%26amp%3B%20DEVOPS&descSize=15&descAlignY=62&descColor=00F0FF&animation=twinkling" width="100%" />
 
   <!-- DYNAMIC NEON TYPING SVG -->
   <a href="https://github.com/dickyaldianpratama">
