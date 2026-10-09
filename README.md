@@ -18,7 +18,7 @@
 
   <!-- TECH METRIC BADGES -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=dickyaldianpratama&label=Profile%20Views&color=0070F3&style=flat-square" />
+    <img src="https://komarev.com/ghpvc/?username=dickyaldianpratama&label=Profile%20Views&color=0070F3&style=flat-square&v=1" />
     <img src="https://img.shields.io/badge/HackerRank-Role%20Certified%20SE-00EA64?style=flat-square&logo=hackerrank&logoColor=white" />
     <img src="https://img.shields.io/badge/AWS-Lambda%20Certified-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" />
     <img src="https://img.shields.io/badge/Location-Indonesia-0070F3?style=flat-square&logo=googlemaps&logoColor=white" />
